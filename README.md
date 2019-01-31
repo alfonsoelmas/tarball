@@ -17,6 +17,6 @@ Mytar_routines.c: Funciones/Lógica de nuestro tarball.
 
 # Quienes somos
 
-Puedes visitar nuestra página web: http://tecnosor.esy.es para ver otros proyectos que tenemos y servicios que ofrecemos.
+Puedes visitar nuestra página web: http://tecnosor.es para ver otros proyectos que tenemos y servicios que ofrecemos.
 
 Autor: Alfonso Soria Muñoz.
